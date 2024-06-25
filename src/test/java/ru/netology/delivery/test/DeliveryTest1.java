@@ -12,7 +12,7 @@ import static com.codeborne.selenide.Condition.*;
 import static com.codeborne.selenide.Selectors.withText;
 import static com.codeborne.selenide.Selenide.*;
 
-class DeliveryTest {
+class DeliveryTest1 {
 
     @BeforeEach
     void setup() {
